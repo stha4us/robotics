@@ -1,2 +1,2 @@
 # robotics projects
-Basic script to get started with robotics, automation and image processing
+Basic script to get started with robotics, coding, automation and image processing
