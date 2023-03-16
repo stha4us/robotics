@@ -1,2 +1,2 @@
-# robotics_opencv
-Python script to control a robot using Raspberry Pi and OpenCV
+# robotics projects
+Basic script to get started with robotics, automation and image processing
