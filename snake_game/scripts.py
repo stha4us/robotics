@@ -1,7 +1,6 @@
 #Snake ate Apple
 
 import pygame
-import time
 import random
 
 pygame.init()               #initializes the Game
