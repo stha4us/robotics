@@ -35,20 +35,21 @@ Basic script to get started with robotics, coding, automation and image processi
 
 #### Checking my IP address: >> hostname -I
 #### Get process number: >> ps aux | grep /home/pi/final.py
-#### Kill a process: >> sudo kill <process number>
+#### Kill a process: >> sudo kill <process_number>
 
 #### Check UDB port: >> ls /dev/ttyACM *
 
 
 ### Autorun Using Cronjob:
-#### Set boot option to "Desktop/CLI"
-#### Other config set to "Console Autologin"
 #### >> sudo crontab -e
 #### >> 2
 #### >> @ reboot /home/pi/file.py &
 #### hit enter and exit
 
-### Autorun Scripts in Linux system: >> sudo nano /etc/profile
+### Autorun Scripts in Linux system: 
+#### >> Set boot option to "Desktop/CLI"
+#### >> Other config set to "Console Autologin"
+#### >> sudo nano /etc/profile
 #### >> sudo python /home/file.py
 
 ### Autrun 
