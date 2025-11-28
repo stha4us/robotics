@@ -18,9 +18,7 @@ pinMode(rmotorb,OUTPUT);
 pinMode(11,INPUT);
 pinMode(10,INPUT);
 digitalWrite(3, 90);
-digitalWrite(9, 90)
-;
-
+digitalWrite(9, 90);
 }
 
 void loop() {
